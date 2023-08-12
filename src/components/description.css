@@ -28,7 +28,7 @@
 }
 
 @media screen and (max-width: 1024px){
-    .section_descriptions{
+    .section_description{
         grid-template-columns: 1fr 1fr;
     }
 }

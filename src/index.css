@@ -52,10 +52,7 @@ body,html{
   border-radius: 0.4rem;
   color: white;
 }
-.section_temparature{
-  margin-bottom: 50%;
-  
-}
+
 .section_inputs, .section_temparature{
   display: flex;
   align-items: center;
@@ -93,9 +90,7 @@ body,html{
 
 .icon{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  flex-direction: row;
 }
 
 
@@ -106,6 +101,7 @@ body,html{
   padding: 10px;
 }
 
-.temparature>h1{
+.temparature h1{
   font-size: 60px;
 }
+
